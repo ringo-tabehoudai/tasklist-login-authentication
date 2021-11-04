@@ -54,3 +54,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Set environment variables
 gem 'dotenv-rails'
+
+# Pagination
+gem 'kaminari'
