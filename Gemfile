@@ -57,3 +57,6 @@ gem 'dotenv-rails'
 
 # Pagination
 gem 'kaminari'
+
+# Debugger
+gem 'pry-byebug', group: :development
